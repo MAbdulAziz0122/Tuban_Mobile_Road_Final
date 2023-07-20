@@ -5,29 +5,20 @@ Aplikasi yang saya buat ini bernama Tuban Mobile Road. Yang mana tujuan dari apl
 kerusakan jalan dengan mudah hanya melalui handphone.
 
 Halaman login
-<br>
-<img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/login.png" >
-
-
+<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/login.png" ><br>
 Tampilan halaman login ketika sudah di inputkan username dan password
-<img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/login2.png" >
-
-
+<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/login2.png" ><br>
 Halaman signup
-<img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/signup.png" >
-
-
+<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/signup.png" ><br>
 Tampilan halaman signup ketika sudah di inputkan data sesuai form
-<img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/signup2.png" >
+<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/signup2.png" ><br>
 
 
 Halaman Utama Aplikasi
 Pada saat pertama kali aplikasi, akan ditampilkan autentikasi perizinan lokasi.
-<img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/location_permission.png" >
-
-
+<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/location_permission.png" ><br>
 Tampilan Halaman Utama
-<img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/home.png" >
+<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/home.png" ><br>
 
 
 Tampilan menu Profile dan About
