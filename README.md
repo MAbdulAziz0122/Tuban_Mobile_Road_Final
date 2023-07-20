@@ -6,21 +6,32 @@ kerusakan jalan dengan mudah hanya melalui handphone.
 
 Halaman login
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/login.png" >
+
+
 Tampilan halaman login ketika sudah di inputkan username dan password
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/login2.png" >
 
+
 Halaman signup
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/signup.png" >
+
+
 Tampilan halaman signup ketika sudah di inputkan data sesuai form
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/signup2.png" >
+
 
 Halaman Utama Aplikasi
 Pada saat pertama kali aplikasi, akan ditampilkan autentikasi perizinan lokasi.
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/location_permission.png" >
+
+
 Tampilan Halaman Utama
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/home.png" >
+
+
 Tampilan menu Profile dan About
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/home2.png" >
+
 
 Halaman untuk menambahkan data kerusakan Jalan
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/add.png" >
