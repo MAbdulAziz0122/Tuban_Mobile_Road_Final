@@ -5,31 +5,45 @@ Aplikasi yang saya buat ini bernama Tuban Mobile Road. Yang mana tujuan dari apl
 kerusakan jalan dengan mudah hanya melalui handphone.
 
 Halaman login
-<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/login.png" ><br>
+
+<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/login.png" >
+<br>
 Tampilan halaman login ketika sudah di inputkan username dan password
-<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/login2.png" ><br>
+
+<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/login2.png" >
+<br>
 Halaman signup
-<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/signup.png" ><br>
+
+<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/signup.png" >
+<br>
 Tampilan halaman signup ketika sudah di inputkan data sesuai form
-<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/signup2.png" ><br>
+
+<br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/signup2.png" >
+<br>
 
 
 Halaman Utama Aplikasi
 Pada saat pertama kali aplikasi, akan ditampilkan autentikasi perizinan lokasi.
+
 <br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/location_permission.png" ><br>
 Tampilan Halaman Utama
+
 <br><img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/home.png" ><br>
 
 
 Tampilan menu Profile dan About
+
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/home2.png" >
 
 
 Halaman untuk menambahkan data kerusakan Jalan
+
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/add.png" >
 Tampilan Ketika akan mengambil gambar dengan kamera, akan ditampilkan autentikasi perizinan kamera.
+
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/camera_permission.png" >
 Tampilan setelah di inputkan data sesuai form.
+
 <img src="https://github.com/MAbdulAziz0122/Tuban_Mobile_Road_Final/blob/master/add2.png" >
 
 Halaman home ketika data berhasil di tambahkan
